@@ -2,6 +2,7 @@
 
 ## 参考
 
+- [Surge, the missing tool for iOS](https://g.owind.com/surge-the-missing-tool-for-ios/)
 - [Surge Configs by jason5ng32](https://gist.github.com/jason5ng32/648597df6ca7da5aeb41)
 - [by soffchen](https://gist.github.com/soffchen/47a44825626b1cbd0948)
 - [by kaisc](https://gist.github.com/kaisc/66612d058f6c6b09a3ae)
